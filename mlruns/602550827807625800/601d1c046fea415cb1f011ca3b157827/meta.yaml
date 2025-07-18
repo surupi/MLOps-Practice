@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/602550827807625800/601d1c046fea415cb1f011ca3b157827/artifacts
+end_time: 1752860243889
+entry_point_name: ''
+experiment_id: '602550827807625800'
+lifecycle_stage: active
+run_id: 601d1c046fea415cb1f011ca3b157827
+run_name: legendary-finch-433
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752860240540
+status: 3
+tags: []
+user_id: jupyter

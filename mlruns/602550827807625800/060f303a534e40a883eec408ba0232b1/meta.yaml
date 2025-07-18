@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/602550827807625800/060f303a534e40a883eec408ba0232b1/artifacts
+end_time: 1752860264639
+entry_point_name: ''
+experiment_id: '602550827807625800'
+lifecycle_stage: active
+run_id: 060f303a534e40a883eec408ba0232b1
+run_name: rebellious-koi-891
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752860261274
+status: 3
+tags: []
+user_id: jupyter

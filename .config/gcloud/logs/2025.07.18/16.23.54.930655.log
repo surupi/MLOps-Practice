@@ -1,0 +1,8 @@
+2025-07-18 16:23:54,976 DEBUG    root            Loaded Command Group: ['gcloud', 'config']
+2025-07-18 16:23:55,017 DEBUG    root            Loaded Command Group: ['gcloud', 'config', 'get_value']
+2025-07-18 16:23:55,020 DEBUG    root            Running [gcloud.config.get-value] with arguments: [SECTION/PROPERTY: "project"]
+2025-07-18 16:23:55,028 DEBUG    root            Chosen display Format:value(.)
+2025-07-18 16:23:55,029 INFO     root            Display format: "value(.)"
+2025-07-18 16:23:55,031 INFO     ___FILE_ONLY___ sanguine-fx-461507-k2
+
+2025-07-18 16:23:55,032 DEBUG    root            SDK update checks are disabled.

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/602550827807625800/f6091715863549ce9c06d4f6e058443a/artifacts
+end_time: 1752860247337
+entry_point_name: ''
+experiment_id: '602550827807625800'
+lifecycle_stage: active
+run_id: f6091715863549ce9c06d4f6e058443a
+run_name: abrasive-foal-87
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752860243940
+status: 3
+tags: []
+user_id: jupyter

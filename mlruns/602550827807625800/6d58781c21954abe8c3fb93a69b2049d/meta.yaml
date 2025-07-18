@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/602550827807625800/6d58781c21954abe8c3fb93a69b2049d/artifacts
+end_time: 1752860250846
+entry_point_name: ''
+experiment_id: '602550827807625800'
+lifecycle_stage: active
+run_id: 6d58781c21954abe8c3fb93a69b2049d
+run_name: defiant-hog-236
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752860247384
+status: 3
+tags: []
+user_id: jupyter

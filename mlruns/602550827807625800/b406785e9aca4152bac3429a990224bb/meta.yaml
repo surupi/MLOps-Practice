@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/602550827807625800/b406785e9aca4152bac3429a990224bb/artifacts
+end_time: 1752860329429
+entry_point_name: ''
+experiment_id: '602550827807625800'
+lifecycle_stage: active
+run_id: b406785e9aca4152bac3429a990224bb
+run_name: vaunted-shark-988
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752860326073
+status: 3
+tags: []
+user_id: jupyter

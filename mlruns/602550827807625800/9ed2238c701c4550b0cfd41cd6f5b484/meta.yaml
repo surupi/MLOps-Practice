@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/602550827807625800/9ed2238c701c4550b0cfd41cd6f5b484/artifacts
+end_time: 1752860322520
+entry_point_name: ''
+experiment_id: '602550827807625800'
+lifecycle_stage: active
+run_id: 9ed2238c701c4550b0cfd41cd6f5b484
+run_name: useful-pig-973
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752860319242
+status: 3
+tags: []
+user_id: jupyter
