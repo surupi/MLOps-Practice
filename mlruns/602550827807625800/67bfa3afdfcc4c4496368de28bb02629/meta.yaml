@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/602550827807625800/67bfa3afdfcc4c4496368de28bb02629/artifacts
+end_time: 1752860312170
+entry_point_name: ''
+experiment_id: '602550827807625800'
+lifecycle_stage: active
+run_id: 67bfa3afdfcc4c4496368de28bb02629
+run_name: fun-goose-546
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752860308684
+status: 3
+tags: []
+user_id: jupyter

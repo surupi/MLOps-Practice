@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/602550827807625800/0ec0d7d13d7c4a2e8fc1c5211e7a095c/artifacts
+end_time: 1752860332835
+entry_point_name: ''
+experiment_id: '602550827807625800'
+lifecycle_stage: active
+run_id: 0ec0d7d13d7c4a2e8fc1c5211e7a095c
+run_name: charming-panda-68
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752860329471
+status: 3
+tags: []
+user_id: jupyter

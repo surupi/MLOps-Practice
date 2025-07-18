@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/602550827807625800/877ef57784ae42e189dc8eab80cf6232/artifacts
+end_time: 1752860319202
+entry_point_name: ''
+experiment_id: '602550827807625800'
+lifecycle_stage: active
+run_id: 877ef57784ae42e189dc8eab80cf6232
+run_name: honorable-horse-68
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752860315789
+status: 3
+tags: []
+user_id: jupyter

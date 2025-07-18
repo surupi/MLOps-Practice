@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/602550827807625800/bb0d4e3fb013487b9bb23224d702a923/artifacts
+end_time: 1752860261226
+entry_point_name: ''
+experiment_id: '602550827807625800'
+lifecycle_stage: active
+run_id: bb0d4e3fb013487b9bb23224d702a923
+run_name: skillful-wolf-659
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752860257804
+status: 3
+tags: []
+user_id: jupyter

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/602550827807625800/d3c6021bfcb34f05a0fd9e7ea38ef607/artifacts
+end_time: 1752860233525
+entry_point_name: ''
+experiment_id: '602550827807625800'
+lifecycle_stage: active
+run_id: d3c6021bfcb34f05a0fd9e7ea38ef607
+run_name: youthful-shoat-41
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752860222177
+status: 3
+tags: []
+user_id: jupyter

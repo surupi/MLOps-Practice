@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/602550827807625800/0dd34631b48045bb96b5da924d83b388/artifacts
+end_time: 1752860240496
+entry_point_name: ''
+experiment_id: '602550827807625800'
+lifecycle_stage: active
+run_id: 0dd34631b48045bb96b5da924d83b388
+run_name: languid-kit-525
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752860237096
+status: 3
+tags: []
+user_id: jupyter
